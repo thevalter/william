@@ -102,3 +102,6 @@ document.addEventListener('keypress', e => {
     startGame()
   }
 })
+
+
+const teste = 'teste';
